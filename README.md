@@ -1,6 +1,6 @@
-# Campus Virtual ISTERD - HOME PAGE
+# Campus Virtual ISTRED - HOME PAGE
 
-Página de inicio del Campus Virtual ISTERD.
+Página de inicio del Campus Virtual ISTRED.
 Actualmente desarrollada con:
 
 - [React](https://react.dev/)
